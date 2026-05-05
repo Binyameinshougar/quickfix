@@ -2,6 +2,11 @@
 
 Trusted local help, powered by AI.
 
+## Project Links
+
+- Live Demo: https://quickfix-red.vercel.app/
+- GitHub: https://github.com/Binyameinshougar/quickfix
+
 QuickFix is a local services marketplace MVP that helps customers post service requests, receive offers from nearby providers, compare trust signals, and choose the best provider. The product uses mock AI logic to analyze service problems, detect urgency, estimate price ranges, recommend safety steps, and create provider-facing job summaries.
 
 The first version is free for customers and providers. It does not include subscriptions, commissions, or real payments. The goal is to validate the local supply-and-demand marketplace loop before adding monetization.
